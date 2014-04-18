@@ -1,6 +1,6 @@
 # Torrance
 
-TODO: Write a gem description
+Argh
 
 ## Installation
 
